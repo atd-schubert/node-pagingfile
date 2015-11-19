@@ -1,7 +1,7 @@
 {
   "name": "pagingfile",
   "version": "0.1.0",
-  "description": "Readable stream from a random pagefile with \"tail -f\"",
+  "description": "Readable stream from a random pagingfile with \"tail -f\"",
   "main": "pagingfile.js",
   "directories": {
     "test": "test"
@@ -15,7 +15,7 @@
   },
   "keywords": [
     "stream",
-    "pagefile",
+    "pagingfile",
     "temp",
     "temporary"
   ],
