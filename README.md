@@ -52,5 +52,5 @@ pagingfile.getPath(function (err, path) {
 
 ```
 
-*This module is written with jsdoc. You can compile the docs with  The compiled jsdoc is also included in the module
+*This module is written with jsdoc. You can compile the docs with `jsdoc -d jsdoc pagefile.js README.md`. The compiled jsdoc is also included in the module
 package on npm...*
